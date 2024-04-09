@@ -1,4 +1,4 @@
-# Phase 2 Project Description - Sammy Warah
+# Phase 2 Project Description
 ## Overview
 This project focuses on predicting house prices using a multiple linear regression model. The dataset contains various features such as the number of bedrooms, bathrooms, square footage of living space, waterfront status, house condition, and grade, among others. The goal is to build a model that accurately predicts house prices based on these features.
 
